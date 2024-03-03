@@ -5,7 +5,7 @@ import MainComponent from "./components/MainComponent/MainComponent";
 function App() {
   const [allData, setAllData] = useState({
     fontFamily: "'Montserrat', sans-serif",
-    primaryColor: "#FAEBB5",
+    primaryColor: "#FAEBB5 ",
     secondaryColor: "#774F86",
     accentColor: "#F67F7B",
     header: {

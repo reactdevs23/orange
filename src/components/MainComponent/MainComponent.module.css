@@ -59,6 +59,8 @@
   line-height: 90%;
   color: var(--primaryColor);
   background: var(--secondaryColor);
+  text-shadow: 5px 5px 0 var(--accentColor), 1px 5px 0 var(--accentColor),
+    5px 1px 0 var(--accentColor), 1px 1px 0 var(--accentColor);
 }
 .postName {
   font-size: 40px;
